@@ -7,5 +7,5 @@ In the other files of this repository you can find the exercises. This includes 
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names. 
 
-The tidy_data.R creates an independent data set with the average of each variable for each activity and each subject.
+The averagedata.txt creates an independent data set with the average of each variable for each activity and each subject.
 The CodeBook.md describes all variables and their means as well as the data and transformations that have been made.
